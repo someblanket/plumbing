@@ -1,0 +1,26 @@
+html{
+    background-image: url()
+    }
+    h1{
+    background-image: url(toilet.jpg);
+    color:aqua;
+    font-size:50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+    text-decoration:normal;
+    border-style:solid;
+    border-width:0px 0px 5px 0px;
+    border-color:blue;
+    
+    }
+    h2{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    }
+    p{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    }
+    li{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    }
+    
